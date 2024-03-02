@@ -5,7 +5,7 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 ## Table of Contents
 
 - [Eduford](#eduford)
-- [Age Calculator](#agecalculator)
+- [Age Calculator](#age-calculator)
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 
 ---
 
-# Age Calculator
+# Age-Calculator
 
 ![scrnli_02_03_2024_20-48-10](https://github.com/topaja/Project/assets/87275904/318f79e3-22fd-44c2-9555-24b0afad7d25)
 
