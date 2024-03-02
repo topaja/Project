@@ -5,6 +5,7 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 ## Table of Contents
 
 - [Eduford](#eduford)
+- [Age Calculator](#agecalculator)
 
 ---
 
@@ -25,6 +26,18 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 
 **Website Visit:** [Click Here](https://topaja.github.io/Eduford/)
 
+---
+
+# Age Calculator
+
+![scrnli_02_03_2024_20-48-10](https://github.com/topaja/Project/assets/87275904/318f79e3-22fd-44c2-9555-24b0afad7d25)
+
+   * built using HTML, CSS & JAVASCRIPT
+   * a simple age calculator with current date and birth date as input fields
+
+**GitHub Repository:** [Age Calculator](https://github.com/topaja/Age-Calculator)
+
+**Website Visit:** [Click Here](https://topaja.github.io/Age-Calculator/)
 
 ---
 
