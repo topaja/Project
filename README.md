@@ -5,10 +5,7 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 ## Table of Contents
 
 - [Eduford](#eduford)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+
 ---
 
 # Eduford
