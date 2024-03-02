@@ -6,6 +6,7 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 
 - [Eduford](#eduford)
 - [Age Calculator](#age-calculator)
+- [Calculator](#calculator)
 
 ---
 
@@ -38,6 +39,19 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 **GitHub Repository:** [Age Calculator](https://github.com/topaja/Age-Calculator)
 
 **Website Visit:** [Click Here](https://topaja.github.io/Age-Calculator/)
+
+---
+
+# Calculator
+
+![scrnli_02_03_2024_20-55-23](https://github.com/topaja/Project/assets/87275904/df09662d-88d7-4e0e-9123-896815e9d5cb)
+
+   * built using HTML & CSS
+   * a simple numeric calculator
+     
+**GitHub Repository:** [Calculator](https://github.com/topaja/Calculator)
+
+**Website Visit:** [Click Here](https://topaja.github.io/Calculator/)
 
 ---
 
