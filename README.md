@@ -1,5 +1,5 @@
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/topaja/Project/assets/87275904/addd29a5-d5ad-43a0-a03e-b03f37524459)
 
-# My Projects 
 
 Welcome to my projects showcase! Below are some of my recent projects along with their descriptions and links.
 ## Table of Contents
