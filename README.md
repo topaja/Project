@@ -7,6 +7,7 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 - [Eduford](#eduford)
 - [Age Calculator](#age-calculator)
 - [Calculator](#calculator)
+- [Stopwatch](#stopwatch)
 
 ---
 
@@ -52,6 +53,19 @@ Welcome to my projects showcase! Below are some of my recent projects along with
 **GitHub Repository:** [Calculator](https://github.com/topaja/Calculator)
 
 **Website Visit:** [Click Here](https://topaja.github.io/Calculator/)
+
+---
+
+# Stopwatch
+
+![scrnli_03_03_2024_13-21-54](https://github.com/topaja/Project/assets/87275904/74363f42-f099-43a2-b024-045137b3bb21)
+
+   * built using HTML, CSS & JAVASCRIPT
+   * A stopwatch with start, stop & reset facility
+     
+**GitHub Repository:** [Stopwatch](https://github.com/topaja/Stopwatch)
+
+**Website Visit:** [Click Here](https://topaja.github.io/Stopwatch/)
 
 ---
 
