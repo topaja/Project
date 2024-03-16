@@ -4,10 +4,21 @@
 Welcome to my projects showcase! Below are some of my recent projects along with their descriptions and links.
 ## Table of Contents
 
+- [Nike](#nike)
 - [Eduford](#eduford)
 - [Age Calculator](#age-calculator)
 - [Calculator](#calculator)
 - [Stopwatch](#stopwatch)
+
+---
+
+# Nike
+
+![scrnli_14_03_2024_19-30-52](https://github.com/topaja/Project/assets/87275904/12ae4c5a-4fc1-4107-863f-9a88756f8e67)
+
+   * built using React
+
+**GitHub Repository:** [Nike](https://github.com/topaja/Nike)
 
 ---
 
