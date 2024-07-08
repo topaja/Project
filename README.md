@@ -4,11 +4,23 @@
 Welcome to my projects showcase! Below are some of my recent projects along with their descriptions and links.
 ## Table of Contents
 
+- [Social Link Profile](#social-link-profile)
 - [Nike](#nike)
 - [Eduford](#eduford)
 - [Age Calculator](#age-calculator)
 - [Calculator](#calculator)
 - [Stopwatch](#stopwatch)
+
+---
+
+# Social-Link-Profile
+
+![image](https://github.com/topaja/Project/assets/87275904/6e1fb1e1-d7a8-47f9-bad2-683f332441d2)
+
+
+   * built using HTML & CSS
+
+**GitHub Repository:** [Social Link Profile](https://github.com/topaja/social-links-profile)
 
 ---
 
